@@ -1,3 +1,6 @@
+results/
+auto_collected_data/
+SSD_pytorch/outputs
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
